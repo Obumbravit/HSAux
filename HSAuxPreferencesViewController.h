@@ -1,0 +1,4 @@
+#import <HSWidgets/HSWidgetCombinedAdditionalOptionsAndPreferencesViewController.h>
+
+@interface HSAuxPreferencesViewController : HSWidgetCombinedAdditionalOptionsAndPreferencesViewController
+@end

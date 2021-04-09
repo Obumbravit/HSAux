@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HSAuxMSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>key</key>
+			<string>icon</string>
+			<key>label</key>
+			<string></string>
+			<key>set</key>
+			<string>setmsswitch:specifier:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Dynamic Title Coloring</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>key</key>
+			<string>aColor</string>
+			<key>label</key>
+			<string>Song</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>key</key>
+			<string>bColor</string>
+			<key>label</key>
+			<string>Artist</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Aux ❤️</string>
+</dict>
+</plist>

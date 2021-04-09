@@ -1,0 +1,9 @@
+Package: com.obumbravit.hsaux
+Name: HSAux
+Depends: mobilesubstrate, com.dgh0st.hswidgets, com.obumbravit.svgct
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Aux, for your home screen!
+Maintainer: Obumbravit
+Author: Obumbravit
+Section: Addons (HSWidgets)
